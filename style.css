@@ -165,7 +165,7 @@ a.btn-outline-primary:hover {
 }
 
 #contact-container {
-    gap: 10vh;
+    gap: 1rem;
 }
 
 #contact-container img {
